@@ -88,7 +88,6 @@ The goal is to provide **supportive insights**, not surveillance.
 * MediaPipe
 * OpenCV
 * NumPy
-* (Optional) Streamlit for dashboards
 
 ---
 
@@ -121,7 +120,7 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-Developed by **Pedro Lucas** as a professional and academic project in applied Artificial Intelligence.
+Developed by **Pedro Lucas**, Computer Engineering student at UNIFEI.
 
 ---
 
